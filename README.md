@@ -5,7 +5,7 @@
 
 <img src="https://github.com/nirajjadhav/Sumarized-News-Portal/blob/35810afd1fd610d1535f2a17f8ae672289302cff/thumb.jpg">
 
-## [Demo of App]
+## [Demo of App](https://nirajjadhav-sumarized-news-portal-app-7nnqz6.streamlit.app/)
 
 ## Source
 - For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
